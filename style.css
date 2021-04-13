@@ -700,7 +700,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 800px;
     margin: auto auto auto auto;
 }
 
@@ -777,6 +777,7 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    font-weight: 900;
 }
 
 .btn-atomic-tangerine {
@@ -824,6 +825,10 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+footer {
+    color: black!important;
 }
 
 @media (max-width: 1024px) {
