@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -826,7 +826,7 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-footer {
+.black {
     color: black!important;
 }
 
